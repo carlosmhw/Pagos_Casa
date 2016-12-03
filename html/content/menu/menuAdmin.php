@@ -52,7 +52,29 @@
 							<a href="?view=logout">Salir</a>
 						</li>
 					';
-					break;				
+					break;	
+				case 'historial':
+					echo '
+						<li class="item-li-menu">
+							<a href="?view=home">Inicio</a>
+						</li>
+						<li class="item-li-menu">
+							<a href="?view=agua">Rol de Agua</a>
+						</li>
+						<li class="item-li-menu">
+							<a href="?view=historial" class="flag-page">Historial de pagos</a>
+						</li>
+						<li class="item-li-menu">
+							<a href="?view=administrar">Administrar</a>
+						</li>
+						<li class="item-li-menu">
+							<a href="#">'.$nombre.'</a>
+						</li>
+						<li class="item-li-menu">
+							<a href="?view=logout">Salir</a>
+						</li>
+					';
+					break;			
 				default:
 					echo '
 						<li class="item-li-menu">

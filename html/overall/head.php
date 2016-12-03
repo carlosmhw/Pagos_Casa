@@ -21,7 +21,10 @@
 					break;
 				case 'administrar':
 					echo APP_TITLE_ADMINISTRAR;										
-					break;				
+					break;	
+				case 'historial':
+					echo APP_TITLE_HISTORIAL;	
+					break;			
 				default:
 					echo APP_TITLE_ERROR;
 					break;

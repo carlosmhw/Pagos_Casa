@@ -8,6 +8,7 @@
 	define('APP_TITLE_HOME', 'Inicio');
 	define('APP_TITLE_ERROR', 'Error 404 no encontrado');
 	define('APP_TITLE_ADMINISTRAR', 'Administrar'); 
+	define('APP_TITLE_HISTORIAL', 'Historial de pagos'); 
 
 
 	#Constantes de la conexion a la base de datos

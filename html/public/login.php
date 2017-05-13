@@ -11,6 +11,14 @@
 		<div class="mensaje">
 			<span class="info-circle"></span><p class="p_info">Si tienes problemas para ingresar favor de comunicarse con: Carlos Carmona</p> 	
    		</div>
+   		<div class="important-message">
+   			<img src="views/img/imp-message/imp-img.jpg" alt="Important-Message" class="imp-img-msg">
+   		</div>
+   		<div class="mensaje">
+   			<blockquote>
+   				<p class="p_info">Nuestras mascotas son seres especiales que nos brindan lo mejor de sí mismos para alegrar nuestras vidas.</p> 
+   			</blockquote>				
+   		</div>
 	</div>
 	<script src="views/js/login.js"></script>
 
